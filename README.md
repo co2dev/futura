@@ -13,7 +13,7 @@ Installing
  4. Edit config.php and make sure that all of the settings are correct.
  5. CHMOD write permissions to the following directories:
 
-    - /YOUR BOARD DIRECTORY
+    -- /YOUR BOARD DIRECTORY/
     
     -- src/
     
